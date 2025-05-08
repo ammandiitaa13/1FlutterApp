@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/desktop_webview_auth-master.swiftconstvalues",
+    "dependencies" : "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/desktop_webview_auth-master.d",
+    "diagnostics" : "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/desktop_webview_auth-master.dia",
+    "emit-module-dependencies" : "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/desktop_webview_auth-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/desktop_webview_auth-master-emit-module.dia",
+    "swift-dependencies" : "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/desktop_webview_auth-master.swiftdeps"
+  },
+  "/Users/amandagalan/.pub-cache/hosted/pub.dev/desktop_webview_auth-0.0.15/macos/Classes/DesktopWebviewAuthPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/DesktopWebviewAuthPlugin.o",
+    "llvm-bc" : "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/DesktopWebviewAuthPlugin.bc",
+    "object" : "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/Objects-normal/x86_64/DesktopWebviewAuthPlugin.o"
+  }
+}

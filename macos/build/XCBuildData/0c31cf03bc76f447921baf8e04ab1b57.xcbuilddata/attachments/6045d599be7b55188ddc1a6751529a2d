@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Release/desktop_webview_auth/desktop_webview_auth.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Release/desktop_webview_auth/desktop_webview_auth.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "desktop_webview_auth-Swift.h",
+      'external-contents': "/Users/amandagalan/Downloads/tfg_tripmap/flutter_application_1/macos/build/Pods.build/Release/desktop_webview_auth.build/unextended-interface-header.h",
+    }]
+    }]
+}
